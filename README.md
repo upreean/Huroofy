@@ -1,5 +1,7 @@
 # Huroofy
 ## Short Promotion Video
+[https://www.instagram.com/reel/C62ZgGxyukc/?igsh=MWFxaXIyanlsdGsyOA==](https://www.instagram.com/reel/C62ZgGxyukc/?igsh=MWFxaXIyanlsdGsyOA==)
+
 ## Summary
 This research was created to develop an educational application called Hurofy which is aimed at early childhood education in
 learning the Arabic alphabet (Hijaiyah letters). The motivation for creating this application stems from Islamic teachings 
