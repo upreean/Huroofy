@@ -1,4 +1,8 @@
 # Huroofy
+
+## Description
+Huroofy is an innovative educational application specifically designed to help early childhood in learning Hijaiyah letters. By utilizing advanced Handwriting Recognition technology, Huroofy can classify the shape and variations of children's Hijaiyah writing well, even imperfect writing. Huroofy provides interactive feedback and motivates children to continue learning.
+
 ## Short Promotion Video
 [https://www.instagram.com/reel/C62ZgGxyukc/?igsh=MWFxaXIyanlsdGsyOA==](https://www.instagram.com/reel/C62ZgGxyukc/?igsh=MWFxaXIyanlsdGsyOA==)
 
@@ -21,4 +25,14 @@ accuracy, precision, and recall determining the model's effectiveness.
 
 Technologies used in the development of Huroofy include OpenCV for image processing, Python for programming, TensorFlow for building CNNs 
 efficiently, and Keras for machine learning and neural network model development.
+
+## Huroofy Team
+| Name                  | Role         | Github link |
+|-----------------------|--------------|-------------|
+| Ahmad Maulidi Roofiad | ML Dev       | [ahmad](https://github.com/Didin07) |
+| Annisa Sabillah       | Researcher   | [annisa](https://github.com/annisasabil) |
+| Aprian Nur Rohman     | Back end Dev | [aprian](https://github.com/upreean) |
+| Elmi Wahyu Triyani    | Front End Dev| [elmi](https://github.com/elmiwahyu) |
+
+
 
