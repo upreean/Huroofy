@@ -29,12 +29,12 @@ Technologies used in the development of Huroofy include OpenCV for image process
 efficiently, and Keras for machine learning and neural network model development.
 
 ## Huroofy Team
-| Name                  | Role         | Github link |
-|-----------------------|--------------|-------------|
-| Ahmad Maulidi Roofiad | ML Dev       | [ahmad](https://github.com/Didin07) |
-| Annisa Sabillah       | Researcher   | [annisa](https://github.com/annisasabil) |
-| Aprian Nur Rohman     | Back end Dev | [aprian](https://github.com/upreean) |
-| Elmi Wahyu Triyani    | Front End Dev| [elmi](https://github.com/elmiwahyu) |
+| Name                  | Role                  | Github link |
+|-----------------------|-----------------------|-------------|
+| Ahmad Maulidi Roofiad | ML Dev                | [ahmad](https://github.com/Didin07) |
+| Annisa Sabillah       | Researcher-Writer     | [annisa](https://github.com/annisasabil) |
+| Aprian Nur Rohman     | Back end Dev          | [aprian](https://github.com/upreean) |
+| Elmi Wahyu Triyani    | ML Dev - Front End Dev| [elmi](https://github.com/elmiwahyu) |
 
 
 
