@@ -1,5 +1,6 @@
 # Huroofy
-![koin (312 x 129 piksel) (1)](https://github.com/user-attachments/assets/0b433727-cd7c-478a-8584-b165a748c89c)
+![koin (312 x 129 piksel) (4)](https://github.com/user-attachments/assets/05daac8e-8689-4706-b1e3-cf8e25c2bb7c)
+
 
 ## Description
 Huroofy is an innovative educational application specifically designed to help early childhood in learning Hijaiyah letters. By utilizing advanced Handwriting Recognition technology, Huroofy can classify the shape and variations of children's Hijaiyah writing well, even imperfect writing. Huroofy provides interactive feedback and motivates children to continue learning.
