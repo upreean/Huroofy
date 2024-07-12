@@ -29,7 +29,7 @@ Technologies used in the development of Huroofy include OpenCV for image process
 efficiently, and Keras for machine learning and neural network model development.
 
 ## Paper
-[paper_huroofy](https://youtu.be/UJut7towIXg](https://github.com/upreean/Huroofy/blob/main/Paper_Huroofy_Supervised%20Deep%20Learning_ML.pdf)
+[paper_huroofy](https://github.com/upreean/Huroofy/blob/main/Paper_Huroofy_Supervised%20Deep%20Learning_ML.pdf)
 
 ## Demo
 [video demo youtube](https://youtu.be/UJut7towIXg)
