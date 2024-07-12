@@ -28,10 +28,11 @@ accuracy, precision, and recall determining the model's effectiveness.
 Technologies used in the development of Huroofy include OpenCV for image processing, Python for programming, TensorFlow for building CNNs 
 efficiently, and Keras for machine learning and neural network model development.
 
-##Paper
+## Paper
+[paper_huroofy]([https://youtu.be/UJut7towIXg](https://github.com/upreean/Huroofy/blob/main/Paper_Huroofy_Supervised%20Deep%20Learning_ML.pdf))
 
 ## Demo
-[video demo](https://youtu.be/UJut7towIXg)
+[video demo youtube](https://youtu.be/UJut7towIXg)
 
 
 https://github.com/user-attachments/assets/89bd205d-9a88-4df3-a5c1-7d7f5b37667e
