@@ -1,5 +1,4 @@
-# Huroofy
-![koin (312 x 129 piksel) (4)](https://github.com/user-attachments/assets/05daac8e-8689-4706-b1e3-cf8e25c2bb7c)
+# ![koin (312 x 129 piksel) (4)](https://github.com/user-attachments/assets/05daac8e-8689-4706-b1e3-cf8e25c2bb7c)
 
 
 ## Description
