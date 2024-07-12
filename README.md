@@ -49,5 +49,11 @@ https://github.com/user-attachments/assets/89bd205d-9a88-4df3-a5c1-7d7f5b37667e
 | Aprian Nur Rohman     | Back end Dev          | [aprian](https://github.com/upreean) |
 | Elmi Wahyu Triyani    | ML Dev - Front End Dev| [elmi](https://github.com/elmiwahyu) |
 
-
+## How To run
+1. Install Python 3.7
+2. Install all the required libraries by copying the following script "pip install -r requirements.txt" and press enter.
+3. Wait for it to finish.
+4. Run a "pumpkin run".
+5. Open a browser and enter the address "localhost:5000"
+6. Have fun learning and trying
 
