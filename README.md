@@ -48,6 +48,7 @@ https://github.com/user-attachments/assets/89bd205d-9a88-4df3-a5c1-7d7f5b37667e
 3. Wait for it to finish.
 4. Run a "pumpkin run".
 5. Open a browser and enter the address "localhost:5000"
+6. Have fun learning and trying
 
 
 ## Huroofy Team
@@ -59,5 +60,5 @@ https://github.com/user-attachments/assets/89bd205d-9a88-4df3-a5c1-7d7f5b37667e
 | Elmi Wahyu Triyani    | ML Dev - Front End Dev| [elmi](https://github.com/elmiwahyu) |
 
 
-6. Have fun learning and trying
+
 
